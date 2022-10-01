@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:cadetblue;
+    
+}
+
+img{
+    width: 700px;
+    height: 700px;
+}
+
+p{
+    font-size: 25px;
+    color: bisque;
+}
